@@ -36,7 +36,7 @@
   🐔You should Contact me in case of an issue.<br/>
   🐔My Github: [PropainAcessories](https://github.com/undefined)<br/>
   <br/>
-  Email me any support questions: HHc3h8@gmail.com<br/>
+  Email me any support questions: hhc3h8@gmail.com<br/>
 
   https://doomsdaydevice3000.herokuapp.com/
 
